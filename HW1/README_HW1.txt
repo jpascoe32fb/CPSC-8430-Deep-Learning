@@ -1,0 +1,1 @@
+To run my experiments for this assignment, upload the .ipnyb file to your google drive and open it with google colab. Google Colab should have all of the requirements for running the code, but I have also included a requirements section with necessary pip downloads.
