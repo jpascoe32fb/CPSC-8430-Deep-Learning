@@ -2,3 +2,5 @@
 
 
 https://drive.google.com/drive/folders/1hXBTVeuXOfWPKTyP1CSuwpYiP96uHNZz?usp=sharing
+
+This takes you to a folder where you can download the custom pre-trained model and token configs so that you don't have to wait to train a new model.
